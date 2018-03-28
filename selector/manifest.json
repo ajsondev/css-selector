@@ -1,0 +1,9 @@
+{
+   "description": "Dev Tools sidebar that aids finding unique CSS selectors for Selenium WebDriver tests.",
+   "devtools_page": "devtools.html",
+   "manifest_version": 2,
+   "name": "Splikity Selector Helper for Chrome™",
+   "permissions": [ "tabs", "*://*/*","downloads" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}

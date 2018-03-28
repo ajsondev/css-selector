@@ -1,0 +1,11 @@
+.ok {
+  background-color: green;
+}
+
+.nok {
+  background-color: red;
+}
+
+.section {
+  margin-top: 20px;
+}
